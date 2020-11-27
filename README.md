@@ -4,6 +4,9 @@ Simple source plugin to get Shifter product and plans from Stripe.
 
 ## Install
 
+```
+$ npm install -D gatsby-source-stripe-shifter-product
+```
 
 ## Config
 
